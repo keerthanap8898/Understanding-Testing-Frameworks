@@ -189,13 +189,12 @@ International Public License is available at:
 To include the complete legal code in this repository as a single LICENSE
 file, copy the license text from the URL above and append it verbatim
 below this line.
+-------------------------------------------------------------------------------
 
 Below is the full text of the **Creative Commons Attribution–NoDerivatives 4.0
 International Public License (CC BY-ND 4.0)**, which governs this work.
 
--------------------------------------------------------------------------------
-BEGIN OFFICIAL CREATIVE COMMONS BY-ND 4.0 LEGAL CODE (PASTE FROM CC WEBSITE)
--------------------------------------------------------------------------------
+-----BEGIN OFFICIAL LICENSE-----
 
 Attribution-NoDerivatives 4.0 International
 
@@ -590,6 +589,5 @@ public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
 
--------------------------------------------------------------------------------
-END OFFICIAL CREATIVE COMMONS BY-ND 4.0 LEGAL CODE
--------------------------------------------------------------------------------
+-----END OFFICIAL LICENSE-----
+
