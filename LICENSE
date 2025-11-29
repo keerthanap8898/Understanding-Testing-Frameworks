@@ -1,5 +1,12 @@
-Understanding Testing Frameworks – License
-==========================================
+Understanding Testing Frameworks – License Notice
+© 2025 Keerthana Purushotham
+
+This repository contains the draft manuscript for the book:
+"Understanding Testing Frameworks: The Temporal Architecture of Testing from Code to Continuous Validation."
+
+The content in this repository (unless stated otherwise in specific files) is licensed under:
+
+    Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
 
 Project / Book Draft
 --------------------
@@ -178,24 +185,12 @@ Attribution–NoDerivatives 4.0 International Public License.
 In the event of any conflict of interpretation, the official Creative Commons
 legal code governs.
 
-Full Legal Code
----------------
+Below is the full text of the Creative Commons Attribution–NoDerivatives 4.0
+International Public License (CC BY-ND 4.0), which governs this work.
 
-The full text of the Creative Commons Attribution–NoDerivatives 4.0
-International Public License is available at:
+The full, unmodified legal code begins below.
 
-    https://creativecommons.org/licenses/by-nd/4.0/legalcode
-
-To include the complete legal code in this repository as a single LICENSE
-file, copy the license text from the URL above and append it verbatim
-below this line.
--------------------------------------------------------------------------------
-
-Below is the full text of the **Creative Commons Attribution–NoDerivatives 4.0
-International Public License (CC BY-ND 4.0)**, which governs this work.
-
------BEGIN OFFICIAL LICENSE-----
-
+================================================================================
 Attribution-NoDerivatives 4.0 International
 
 =======================================================================
@@ -588,6 +583,3 @@ the avoidance of doubt, this paragraph does not form part of the
 public licenses.
 
 Creative Commons may be contacted at creativecommons.org.
-
------END OFFICIAL LICENSE-----
-
