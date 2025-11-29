@@ -8,97 +8,16 @@ The content in this repository (unless stated otherwise in specific files) is li
 
     Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
 
-Project / Book Draft
---------------------
 
-Title (working)
----------------
-
-    Understanding Testing Frameworks:
+Title (working): Understanding Testing Frameworks:
     The Temporal Architecture of Testing from Code to Continuous Validation
 
-Repository
-----------
+Repository:    https://github.com/keerthanap8898/Understanding-Testing-Frameworks
 
-    https://github.com/keerthanap8898/Understanding-Testing-Frameworks
-
-Project Description
--------------------
-
+Project Description:
 This repository contains the draft manuscript for a non-fiction technical book
 on modern software testing and testing frameworks, viewed as a temporal
 architecture rather than a single stage in a pipeline.
-
-The core idea is that testing is a continuous, time-aware process that matures
-alongside the codebase and infrastructure. It starts on the developer’s laptop,
-passes through CI and staging environments, and continues into production and
-long-term operation. At each point in time, different properties must be
-proved, with different costs, constraints, and blast radius.
-
-Planned and current content includes, but is not limited to:
-
-- The Temporal Architecture of Testing
-  - Framing testing as a time-based continuum rather than a static phase.
-  - The notion of a “testing timeline” that aligns with code maturity,
-    deployment exposure, and production feedback.
-
-- Early pipeline stages
-  - Pre-Commit — “Shift-Left Guardrails”:
-    local, fast, deterministic checks on the developer workstation, mirroring
-    CI where possible.
-  - Per-Commit / Pull Request — “Fast Feedback Loop”:
-    ephemeral CI environments, synthetic or masked data only, coverage and
-    performance gates, structured reporting back to the pull request.
-
-- Integrated and pre-release stages
-  - Pre-Merge / Staging Integration — “Systems Fit Check”:
-    validating interoperability across services, schemas, and configurations in
-    a controlled staging environment with production-like topology and
-    observability.
-  - Mainline / Pre-Release — “Full System Regression”:
-    regression suites, performance benchmarks, short-run soak tests, security
-    and dependency scanning, and data quality and drift checks.
-
-- Deployment and promotion
-  - Deployment Pipeline — “Progressive Confidence Building”:
-    alpha, beta, shadow/gamma, canary, and full production stages, each adding
-    realism while constraining risk.
-  - Post-Deployment Verification — “Operational Validation”:
-    live smoke tests, golden-metric comparison, A/B analytics validation, drift
-    monitoring, and observability validation.
-  - Continuous and Periodic Testing — “Long-Term System Health”:
-    hourly, daily, weekly, monthly, and quarterly practices for resilience,
-    compliance, and capacity.
-
-- Additional and often-missed stages
-  - Pre-data ingestion tests, pre- and post-model training validation, infra
-    and migration tests, rollback verification, and post-incident replay.
-
-- Test types and strategies
-  - Core functional tests:
-    unit, validation, sanity, integration, regression, golden, E2E/acceptance,
-    localization/configuration.
-  - Advanced / non-functional tests:
-    load, stress, soak, chaos/fault injection, concurrency/race, performance,
-    security, compliance, DR/failover, observability contracts, data
-    quality/drift, fuzzing, upgrade/migration, A/B and canary analytics,
-    recovery/restart.
-
-- Governance, ownership, and automation
-  - Canonical test suites, artifact invariants (including SBOMs and provenance),
-    and test data governance.
-  - Ownership mapping across Dev, QE/Perf, SRE, Security, and Data/ML.
-  - Per-feature and per-pipeline execution matrices, regional and wave rollouts,
-    promotion gates and budgets, CI/CD skeleton examples, data and secrets
-    governance, flake and runtime discipline, and observability and release
-    health guardrails.
-
-This project is intended as a structured, end-to-end reference for engineers,
-SREs, security practitioners, and technical leaders who want to reason clearly
-about where, when, and how to invest in testing over the lifetime of a system.
-
-Scope of This License
----------------------
 
 Unless explicitly stated otherwise in a specific file or directory, all of the
 following content in this repository is licensed under the:
@@ -191,6 +110,7 @@ International Public License (CC BY-ND 4.0), which governs this work.
 The full, unmodified legal code begins below.
 
 ================================================================================
+
 Attribution-NoDerivatives 4.0 International
 
 =======================================================================
