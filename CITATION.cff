@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use/cite this work, please cite it as below."
+authors:
+- family-names: "Purushotham"
+  given-names: "Keerthana"
+  orcid: "https://orcid.org/0009-0000-8197-7048"
+title: "Understanding-Testing-Frameworks"
+version: 1.0.0
+doi: [ 10.5281/zenodo.17945079 ](doi.org/10.5281/zenodo.17945079)
+date-released: 2025-12-15
+url: "https://github.com/keerthanap8898/Understanding-Testing-Frameworks"
