@@ -80,6 +80,10 @@ The book is organized into a set of chapters that mirror the temporal architectu
 
 <figure><img src=".gitbook/assets/KP_Complexity_Trust_and_Deterministic_Software_compressed_1.jpeg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/KP_Complexity_Trust_and_Deterministic_Software_compressed_2.jpeg" alt=""><figcaption></figcaption></figure>
+
+
+
 This presentation complements the written temporal architecture, making the lifecycle of testing **concrete and operationally actionable**.
 
 ***
