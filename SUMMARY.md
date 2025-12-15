@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Home - Landing Page](README.md)
