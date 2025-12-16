@@ -6,19 +6,17 @@ metaLinks:
 ---
 
 # Introduction
-
-**\[** _**`Book draft`**_ **]**
-
-> #### See book - [_breachtrace.gitbook.io/understanding-testing-frameworks_](https://breachtrace.gitbook.io/understanding-testing-frameworks) **(** _WIP_ **)**.
+**[** ***`Book draft`*** **]**
+>
+> ### See book - [*breachtrace.gitbook.io/understanding-testing-frameworks*](https://breachtrace.gitbook.io/understanding-testing-frameworks) **(** *WIP* **)**.
 >
 > ```
 > CopyrightⒸ 2025  Keerthana Purushotham <keep.consult@proton.me>.
 > Licensed under the CC BY-ND 4.0. See LICENSE for details.
 > ```
 
-***
+---
 
->
 
 ## **Understanding Testing Frameworks**:
 
